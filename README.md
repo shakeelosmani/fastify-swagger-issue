@@ -1,0 +1,1 @@
+Demonstrate fastify swagger issue.
